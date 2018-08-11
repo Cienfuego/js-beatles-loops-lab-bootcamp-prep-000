@@ -25,3 +25,8 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
+function iLoveTheBeatles(num){
+  var arr = [];
+  do()
+}
+
